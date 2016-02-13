@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "background": 1,
+        "ready": 0,
+        "text": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "DeepPurple",
+    "enableMultiJS": true,
+    "longName": "JHB Meetup 2 Config Demo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "JHB Meetup 2 Config Demo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "13608d36-ddae-4c43-b525-4902cb4cdcda",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
